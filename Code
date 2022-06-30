@@ -1,0 +1,132 @@
+#Account
+
+
+
+
+
+print ("Welcome to IoComputer made by Ion Sherbyeskw! Seems like you need an account!")
+print ("Please tell us your name: " )
+name = input ("Enter your name: ")
+print ("Hi, " + name + ", you are good to go!")
+
+#First Game
+want_to_play = input ("Wanna' play? ")
+if want_to_play == ("yes"):
+    print ("Ok")
+else:
+    print ("why don't you WANT TO PLAY?")
+    exit()
+
+#Plan
+print ("Ok, " + name + " . The first thing that we want to do is ask you wich plan you want!")
+print ("Here, have a list of plans:")
+print ("$2, $8, $10")
+plan = input("What plan do you want? ")
+print ("Ok, so " + plan + " it is!")
+
+#plan price
+
+
+#$2
+
+if plan == ("$2"):
+    print ("The price for this plan is " + plan )
+    print ("Sadly, with this plan you can only be a baby! Want to add some plugins to your plan so you can be respectable? (Note that it will cost extra)")
+    bymore = input("Do you wanna add the cool guys plugin to your cart?")
+    if bymore == ("yes"):
+        how_many = input("How many cool guys plugins do you want? Each is a dollar! ")
+        print ("Ok.")
+    else:
+        print ("Ok. This is your total: ")
+
+
+
+#$8
+
+if plan ==  ("$8"):
+    print ("The price for this plan is " + plan +"!")
+    print ("Sadly, with this plan you can only be a dog! Want to add some plugins to your plan so you can be respectable? (Note that it will cost extra)")
+    usha = input("Wanna buy the cool guys plugin?")
+    if usha == ("yes"):
+        how_many = input("How many cool guys plugins do you want? Each is a dollar? ")
+    else:
+        print ("Ok. This is your total: ")
+
+
+#$10
+
+
+
+if plan == ("$10"):
+    print("You are a cat! Very cool!")
+
+
+#final price
+
+
+print ("All the products are free!")
+
+
+
+
+
+# Next game
+
+print("Wanna' have some more fun?")
+
+wfan = input("Wanna' yeeyt?")
+
+if wfan == ("yes"):
+    print ("Amoguwus")
+else:
+    exit()
+
+ 
+print ("Are you ready? Ok, let's go! Yay.")
+
+print ("We will play find a number! ")
+
+yo = input("Choose a number")
+
+print ("Is it 349327138723126321362139438432498948932402348323842838934437839?")
+print ("Is it  427823871872309103201231283818793287187992781983447637476316743178989413289?")
+print ("Is it 86318287928793247893879478643218791738484939824879187932783914189473897143894797834891897?")
+print ("Is it " + yo + " ?")
+
+isis = input("Is it one of those?")
+
+if isis == ("no"):
+    print("Yo! You are very cool? How are you so cool! Anyways!")
+else:
+    print("I'm the best computer ai programed by Io!")
+
+print ("You are still playing this stupid game?")
+
+#Another game 
+
+print("Du Du Du Du DU Duu Du du Du Du D DU Du du DUDu Du Du Du")
+
+print ("This is the hard part. You will die and you will have to restart the game and you will loose a lot of time.")
+
+iwap = input("UwU ")
+
+if iwap == ("uwu"):
+    print  ("Yow passed!")
+else:
+    exit
+
+print ("Are you ready for the next yay?")
+
+
+
+dowdow = input("...")
+
+print ("Wanna' have fun? Let's play the eparf?")
+
+print ("Welcome! Are you evil?")
+
+print ("AAAAAAAAA,")
+
+print ("EXIT NOW!")
+
+
